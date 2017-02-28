@@ -1,0 +1,23 @@
+
+GetNewFactIntent a fact
+GetNewFactIntent a computer fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a computer fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a computer fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a computer trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a computer trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some computer information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent say a fact
+GetNewFactIntent say a computer fact
+GetNewFactIntent get a fact
+GetNewFactIntent get a computer fact
+GetNewFactIntent teach a fact
+GetNewFactIntent teach a computer fact
+
+this list of intents can be modified in order for your intent to woork with your index, make sure you change the facts list.
